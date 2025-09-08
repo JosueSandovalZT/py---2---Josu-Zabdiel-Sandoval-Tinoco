@@ -1,2 +1,2 @@
-# py---2---Josu-Zabdiel-Sandoval-Tinoco
+# py---2---Josué y Aldo
 Práctica de Analítica de Datos: Tipos y Operaciones Básicas
